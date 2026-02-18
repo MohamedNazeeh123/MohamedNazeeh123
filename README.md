@@ -20,12 +20,14 @@
 
 ---
 
-### **Tech Stack** 
-| Data Analysis       | BI Tools          | Databases        |   Languages       |  
-|---------------------|---------- ---------|-----------------|-----------------|  
-| SQL                 | Power BI          | Microsoft SQL Server| Python       |  
-| Excel               | Tableau           |                     | C++ programming |  
-|                     | SSIS SSAS SSRS 
+### 🛠️ Tech Stack  
+
+| **Data Analysis** | **BI Tools** | **Databases** | **Languages** |
+|-------------------|--------------|--------------|--------------|
+| SQL | Power BI | Microsoft SQL Server | Python |
+| Excel | Tableau | | C++ |
+| | SSIS / SSAS / SSRS | | |
+
 ---
 
 ### **Popular Repositories**  
